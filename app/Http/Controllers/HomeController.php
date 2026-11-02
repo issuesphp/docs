@@ -41,6 +41,14 @@ class HomeController extends MainController
 
   }
 
+  public function route() 
+  {    
+
+
+    return $this->view('home/route');
+
+  }
+
 
 
 }

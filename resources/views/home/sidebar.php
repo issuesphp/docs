@@ -38,6 +38,14 @@
 
 	</li>
 
+	<li class="nav-item active">
+
+		<a class="nav-link" href="https://issuesphpframework.online/routes">
+			<span class="mr-2 d-lg-inline text-white">Routes</span>             
+		</a>
+
+	</li>
+
 
 
 	<!-- Heading -->

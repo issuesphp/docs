@@ -22,6 +22,8 @@ function routeFactory($segment,$param1,$param2,$param3) {
 	Route::get('home', 'installation', 'installation',$segment);	
 
 	Route::get('home', 'welcome', 'welcome',$segment);
+
+	Route::get('home', 'route', 'routing',$segment);
 	
 
 }
